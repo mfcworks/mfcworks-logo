@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="linearGradient" gradientTransform="rotate(30 0.5 0.5)">
+      <stop offset="42%" stop-color="#243447"/>
+      <stop offset="62%" stop-color="#6B7C86"/>
+      <stop offset="72%" stop-color="#243447"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#linearGradient)" d="
+    M 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    L 0.0 100.0
+    Z"/>
+</svg>
